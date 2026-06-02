@@ -1,0 +1,7 @@
+deployment:
+  replicas: 1
+  imageRepo: 215446237872.dkr.ecr.us-east-1.amazonaws.com/roboshop/frontend
+  imageVersion: IMAGE_VERSION
+
+service:
+  servicePort: 80
