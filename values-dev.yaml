@@ -1,8 +1,2 @@
-configMap:
-  CART_HOST: "cart"
-  CART_PORT: "8080"
-  USER_HOST: "user"
-  USER_PORT: "8080"
-  AMQP_HOST: "rabbitmq"
-  AMQP_USER: "roboshop"
-  AMQP_PASS: "roboshop123"
+tgb:
+  arn:aws:elasticloadbalancing:us-east-1:215446237872:loadbalancer/app/roboshop-dev-ingress-alb/12acd6cac646fb56
