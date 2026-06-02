@@ -1,2 +1,2 @@
 tgb:
-  arn: "arn:aws:elasticloadbalancing:us-east-1:215446237872:loadbalancer/app/roboshop-dev-ingress-alb/12acd6cac646fb56"
+  arn: "arn:aws:elasticloadbalancing:us-east-1:215446237872:targetgroup/frontend-tg/b0f1f8a057eed0cd"
